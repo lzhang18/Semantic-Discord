@@ -7,9 +7,14 @@ To run the code, please run demo.m in Matlab. If you find our work helpful, plea
 
 @inproceedings{zhang2020semantic,
   title={Semantic Discord: Finding Unusual Local Patterns for Time Series},
+  
   author={Zhang, Li and Gao, Yifeng and Lin, Jessica},
+  
   booktitle={Proceedings of the 2020 SIAM International Conference on Data Mining},
+  
   pages={136--144},
+  
   year={2020},
+  
   organization={SIAM}
 }
