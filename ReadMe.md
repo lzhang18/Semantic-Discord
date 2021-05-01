@@ -1,4 +1,4 @@
-#Source Code for Semantic Discord: Finding Unusual Local Patterns for Time Series
+# Semantic Discord
 
 
 This is the source code for our SDM2020 paper: Semantic Discord: Finding Unusual Local Patterns for Time Series. 
@@ -6,16 +6,13 @@ This is the source code for our SDM2020 paper: Semantic Discord: Finding Unusual
 In the code, we used MASS_V2 code provided by Dr. Mueen. The original code is at https://www.cs.unm.edu/~mueen/FastestSimilaritySearch.html. 
 
 
-##Code Instruction
+## Code Instruction
 
-To run the code, please run 
+To run the code, please run following code in Matlab
 
 ```bash
 demo.m 
 ```
-
-in Matlab. 
-
 If you find our work helpful, please cite the following: 
 
 ```bash
